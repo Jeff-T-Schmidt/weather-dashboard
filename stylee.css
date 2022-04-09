@@ -1,0 +1,51 @@
+body {
+      background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    /* display: flex; */
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+    }
+
+header {
+    font-size: x-large;
+    height: 10vh;
+    text-align: center;
+    background-color: rgb(7, 123, 255);
+    border-bottom: solid black 2px;
+    color: white;
+}
+
+
+section {
+    margin: 0 1.5%;
+    width: 30%;
+}
+
+aside {
+    float: right;
+    margin: 0 1.5%;
+    width: 70%;
+}
+/* .btn {
+    float: left;
+    margin: auto;
+    width: 50%;
+    color: white;   
+} */
+nav {
+    width: 80%;
+}
+
+/* .valign-wrapper {
+    height:100px;
+    padding-top: 10px;
+    border-style: solid; 
+    border-color: black; 
+    }
+    
+    .btn-block {
+    width: 100%;
+    } */
+
+.collection {
+    width: 60%;
+}
