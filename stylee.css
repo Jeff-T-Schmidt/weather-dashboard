@@ -3,7 +3,7 @@ body {
     /* display: flex; */
     box-sizing: border-box;
     font-family: 'Merriweather', serif;
-    }
+ }
 
 header {
     font-size: x-large;
@@ -34,17 +34,9 @@ aside {
 nav {
     width: 80%;
 }
-
-/* .valign-wrapper {
-    height:100px;
-    padding-top: 10px;
-    border-style: solid; 
-    border-color: black; 
-    }
-    
-    .btn-block {
-    width: 100%;
-    } */
+#search {
+    height: 45px;
+}
 
 .collection {
     width: 60%;
@@ -52,4 +44,24 @@ nav {
 #cityName {
     font-weight: 800;
     font-size: xx-large;
+}
+#f1CityName  {
+    font-weight: 800;
+    font-size: x-large;
+}
+#f2CityName  {
+    font-weight: 800;
+    font-size: x-large;
+}
+#f3CityName  {
+    font-weight: 800;
+    font-size: x-large;
+}
+#f4CityName  {
+    font-weight: 800;
+    font-size: x-large;
+}
+#f5CityName  {
+    font-weight: 800;
+    font-size: x-large;
 }
